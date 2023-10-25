@@ -23,7 +23,3 @@ custom_rules:
       - 'typescript'
       - 'vb'
 
-exclude:
-  global:
-    #exclude dir
-    - src/**
